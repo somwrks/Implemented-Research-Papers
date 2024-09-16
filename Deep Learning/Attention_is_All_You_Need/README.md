@@ -1,3 +1,4 @@
+[Access RP](https://arxiv.org/abs/1706.03762)
 
 1. Big Picture:
    - Transformer is a new model for translating text
